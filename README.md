@@ -48,3 +48,14 @@ This project is a web-based application that automatically generates balanced an
 To demonstrate how classical algorithm design techniques can be applied to solve a real-world optimization problem like automated exam paper generation.
 
 ---
+
+## 📸 Screenshots
+
+### 🔹 Main UI
+![UI](screenshots/ui.png)
+
+### 🔹 Generated Question Paper
+![Paper](screenshots/paper.png)
+
+### 🔹 Algorithm Logs
+![Logs](screenshots/logs.png)
