@@ -52,7 +52,7 @@ To demonstrate how classical algorithm design techniques can be applied to solve
 ## 📸 Screenshots
 
 ### 🔹 Main UI
-![UI](screenshots/ui.png)
+![UI]([screenshots/ui.png](https://github.com/MohdTahaSayed/adaptive-exam-generator/blob/main/screenshots/Screenshot%202026-04-20%20001323.png))
 
 ### 🔹 Generated Question Paper
 ![Paper](screenshots/paper.png)
