@@ -52,7 +52,7 @@ To demonstrate how classical algorithm design techniques can be applied to solve
 ## 📸 Screenshots
 
 ### 🔹 Main UI
-![UI](screenshots/ui.png)
+![UI](screenshots/ui_12.png)
 
 ### 🔹 Generated Question Paper
 ![Paper](screenshots/paper.png)
